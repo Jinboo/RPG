@@ -2,8 +2,8 @@ def ficha():
     info = {}
 
     # Preencha aqui sua ficha
-    nome = 'Julia'
-    raca = 'Elfo'
+    nome = ''
+    raca = ''
     classe = ''
     altura = ''
     idade = ''
