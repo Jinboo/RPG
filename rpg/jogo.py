@@ -1,4 +1,5 @@
 from Personagens import ana
+from Personagens import guilherme
 from Personagens import julia
 from Personagens import leticia
 from Personagens import mafe
@@ -6,7 +7,7 @@ from Personagens import mavi
 from Personagens import pedro
 
 def jogo():   
-    personagens = ['ana', 'julia', 'leticia', 'mafe', 'mavi', 'pedro']
+    personagens = ['ana', 'guilherme', 'julia', 'leticia', 'mafe', 'mavi', 'pedro']
 
     total_fichas = {}
     ficha = {}
@@ -23,6 +24,8 @@ def jogo():
             ficha = mavi.ficha()
         elif p == 'pedro':
             ficha = pedro.ficha()
+        elif p == 'guilherme':
+            ficha = guilherme.ficha()
 
         total_fichas[p] = ficha
 
