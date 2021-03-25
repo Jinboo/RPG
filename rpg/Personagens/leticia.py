@@ -2,11 +2,11 @@ def ficha():
     info = {}
 
     # Preencha aqui sua ficha
-    nome = ''
-    raca = ''
-    classe = ''
-    altura = ''
-    idade = ''
+    nome = 'Letícia'
+    raca = 'Holograma'
+    classe = 'Emo gótica'
+    altura = 'átomo'
+    idade = '14'
 
     info = {
         'Nome': nome,
