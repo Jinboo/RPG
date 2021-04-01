@@ -4,7 +4,7 @@ def ficha():
     # Preencha aqui sua ficha
     nome = 'Elais (31415)'
     raca = 'Deusa da locura'
-    classe = 'DEUSA DO CAOS'
+    classe = 'maga espiã'
     altura = '178cm (mas pode mutar)'
     idade = 'indefinido'
 
