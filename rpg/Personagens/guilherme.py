@@ -4,9 +4,9 @@ def ficha():
     # Preencha aqui sua ficha
     nome = 'Guilherme'
     raca = 'Hooman'
-    classe = 'Bruxo'
-    altura = '1,79'
-    idade = '27'
+    classe = 'Tataurga'
+    altura = '2,77'
+    idade = '132'
 
     info = {
         'Nome': nome,

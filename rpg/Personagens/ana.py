@@ -5,13 +5,13 @@ def ficha():
     nome = 'Tomi!'
     raca = 'Morto-Vivo'
     classe = 'Necromancer'
-    altura = '1.61'
+    altura = '1.62'
     idade = '16'
 
     info = {
         'Nome': nome,
         'Raça': raca,
-        'Classe': classe,
+        'Classe': classe,g
         'Altura': altura,
         'Idade': idade
     }
