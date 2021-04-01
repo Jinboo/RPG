@@ -4,7 +4,7 @@ def ficha():
     # Preencha aqui sua ficha
     nome = 'Guilherme'
     raca = 'Hooman'
-    classe = 'Toelho'
+    classe = 'Tataurga'
     altura = '2,77'
     idade = '132'
 
