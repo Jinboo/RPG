@@ -5,7 +5,7 @@ def ficha():
     nome = 'Kyoko'
     raca = 'elfo'
     classe = 'arqueira'
-    altura = '1:70'
+    altura = '1:71'
     idade = '14'
 
     info = {
@@ -14,6 +14,6 @@ def ficha():
         'Classe': classe,
         'Altura': altura,
         'Idade': idade
-    }
+    }gi
 
     return info
