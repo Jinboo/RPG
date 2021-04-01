@@ -3,7 +3,7 @@ def ficha():
 
     # Preencha aqui sua ficha
     nome = 'Pedro'
-    raca = 'Humano'
+    raca = 'Ninguém sabe'
     classe = 'Guerreiro, vendedor, porém pobre'
     altura = '1,70'
     idade = '15'
