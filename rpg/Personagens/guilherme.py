@@ -5,8 +5,8 @@ def ficha():
     nome = 'Guilherme'
     raca = 'Hooman'
     classe = 'Toelho'
-    altura = '1,79'
-    idade = '27'
+    altura = '2,77'
+    idade = '132'
 
     info = {
         'Nome': nome,
