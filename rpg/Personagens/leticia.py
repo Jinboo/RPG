@@ -3,7 +3,7 @@ def ficha():
 
     # Preencha aqui sua ficha
     nome = 'Letícia'
-    raca = 'Holograma'
+    raca = 'Holograma, que é possível ser tocado (tecnologia está avançando) e maga/bruxa que joga praga '
     classe = 'Emo gótica'
     altura = 'átomo'
     idade = '14'
