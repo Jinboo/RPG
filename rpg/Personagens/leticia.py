@@ -2,7 +2,7 @@ def ficha():
     info = {}
 
     # Preencha aqui sua ficha
-    nome = 'Letícia'
+    nome = 'Leh'
     raca = 'Holograma, que é possível ser tocado (tecnologia está avançando) e maga/bruxa que joga praga '
     classe = 'Emo gótica'
     altura = 'átomo'
