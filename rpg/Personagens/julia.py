@@ -3,7 +3,7 @@ def ficha():
 
     # Preencha aqui sua ficha
     nome = 'Júlia Castilho Campos'
-    raca = 'Extraterrestre do passado'
+    raca = 'humana'
     classe = 'Aquela que luta com espada'
     altura = '1,72'
     idade = '14'
