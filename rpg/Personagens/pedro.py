@@ -4,8 +4,8 @@ def ficha():
     # Preencha aqui sua ficha
     nome = 'Pedro'
     raca = 'Ninguém sabe'
-    classe = 'Guerreiro, vendedor, porém pobre'
-    altura = '1,70'
+    classe = 'Guerreiro, vendedor iniciante'
+    altura = '1,70 e se deua quiser um dia 1,80'
     idade = '15'
 
     info = {
